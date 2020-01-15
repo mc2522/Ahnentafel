@@ -1,0 +1,83 @@
+commit ad3f4f35c687739b319f5e2a1e86eb47788c23ff
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Fri Mar 1 23:57:05 2019 -0500
+
+    probably the final commit
+
+commit 1741b7901001c6629e665f2630d6d11f63b7c7af
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Fri Mar 1 23:27:43 2019 -0500
+
+    Completed everything. May need to check some inputs.
+
+commit 7d991a5fef059e0ede49809ca3a1f7bdcf4f1422
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Fri Mar 1 16:29:48 2019 -0500
+
+    documented everything. just need to add command line capabilities and check for any mistakes.
+
+commit c2c91de321268afd60e3c64a9f65091f9d5f0e8a
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Fri Mar 1 15:52:55 2019 -0500
+
+    completed every option. need to add command line capabilities.
+
+commit 40f4d79eda688e94a4dc540131916fbb77ae4a97
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Fri Mar 1 15:01:10 2019 -0500
+
+    fixed option 5 bug
+
+commit b4b08958679bccd8df54bac021e37912aa9deb29
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Fri Mar 1 03:46:26 2019 -0500
+
+    finished most of required items except option 6 and command line arguments.
+
+commit 8c334ce31293c8cc1d5eb1f09de7f77280f591a3
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Thu Feb 28 12:44:03 2019 -0500
+
+    fixed my conversion problem. need to work on option 4 and option 5.
+
+commit 0ea39c502f2421ece9c7605fc059b0716c5b084f
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Thu Feb 28 03:30:55 2019 -0500
+
+    Rewrote most of the functions to incorporate family relations. Need to fix conversion to binary for ahnentafel10. Need conversion from family relation to binary and decimal. Also need female X chromosome inheritance.
+
+commit 56720129508edf2a3ed808c976799009ab3b69d2
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Thu Feb 28 02:00:06 2019 -0500
+
+    Cleaned up and documented code. Missing option 5 and option 6.
+
+commit 3f43e7c7cefb599fed816526e00da6b86b453a6f
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Feb 27 17:51:32 2019 -0500
+
+    Added generations back for option 2
+
+commit d2b9a79ee9a0f51f5191199e64906fabd3b71a34
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Wed Feb 27 17:05:49 2019 -0500
+
+    Fixed menu error and fixed conversion from binary to decimal.
+
+commit 75c97c294dff0323ea1e4f0b625570a9a22eb2b6
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Tue Feb 26 15:13:51 2019 -0500
+
+    added a function that converts from base 10 to base 2. Working on the other way around.
+
+commit 77983db76d4c7a600d78b5167ccbfa6a4294f1f9
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Mon Feb 25 03:08:07 2019 -0500
+
+    Added more helper functions to clean up main function. Completed a functioning menu.
+
+commit a2ae19181230b838c591544f4200e424d34f7459
+Author: Mike  Cao <mc2522@cs.rit.edu>
+Date:   Sun Feb 24 02:36:47 2019 -0500
+
+    Start of project, added options for no command line arguments
